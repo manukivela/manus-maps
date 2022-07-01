@@ -77,8 +77,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="screenshots/jatkasaari.png" width="300">
-<img src="screenshots/pori.png" width="300">
+<img src="assets/readme/posters/jatkasaari.png" width="300">
+<img src="assets/readme/posters/pori.png" width="300">
 
 Easy to use notebook which creates print quality map posters. Multiple different styles and color schemes. 
 
